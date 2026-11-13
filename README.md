@@ -130,10 +130,10 @@ Finally, I reinforced my understanding that reconnaissance and scanning must alw
 ## 8. Evidences Collected
 
 ### 1. Whois
-(1_whois.png.png)
+Screenshots/1_whois.png.png
 
 ### 2. WhatWeb Scan
-(2_whatweb.png.png)
+
 
 ### 3. NSLookup
 (3_nslookup.png.png)
