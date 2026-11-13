@@ -130,7 +130,7 @@ Finally, I reinforced my understanding that reconnaissance and scanning must alw
 ## 8. Evidences Collected
 
 ### 1. Whois
-(Screenshots/1_whois.png.png)
+https://github.com/yvetteayitey2/YVETTE-AYITEY-NETWORKWALKS---WEEK---2---REPORT/blob/main/Screenshots/1_whois.png.png
 
 ### 2. WhatWeb Scan
 ![WhatWeb](screenshots/2_whatweb.png.png)
