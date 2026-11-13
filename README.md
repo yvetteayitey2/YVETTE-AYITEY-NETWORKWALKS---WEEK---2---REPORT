@@ -130,7 +130,7 @@ Finally, I reinforced my understanding that reconnaissance and scanning must alw
 ## 8. Evidences Collected
 
 ### 1. DNSRecon (formerly WHOIS)
-![DNSRecon](screenshots/1_whois.png)
+![DNSRecon](screenshots/1_whois.png.png)
 
 ### 2. WhatWeb Scan
 ![WhatWeb](screenshots/2_whatweb.png.png)
@@ -144,7 +144,7 @@ Finally, I reinforced my understanding that reconnaissance and scanning must alw
 ### 5. WAFW00F
 ![WAFW00F](screenshots/5_wafw00f.png.png)
 
-### 6. DNSRecon (Check if this is the right one)
+### 6. DNSRecon 
 ![DNSRecon](screenshots/6_dnsrecon.png.png)
 
 ### 7. Zenmap
