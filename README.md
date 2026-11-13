@@ -162,6 +162,6 @@ Yvette Ayitey <br>
 Cybersecurity Intern B084D <br>
 LinkedIn: https://www.linkedin.com/in/yvette-ayitey-112a29344?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-📌## Project Information
+📌# Project Information
 Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
 
