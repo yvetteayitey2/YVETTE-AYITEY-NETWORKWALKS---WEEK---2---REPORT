@@ -130,13 +130,13 @@ Finally, I reinforced my understanding that reconnaissance and scanning must alw
 ## 8. Evidences Collected
 
 ### 1. Whois
-Screenshots/1_whois.png.png
+(1_whois.png.png)
 
 ### 2. WhatWeb Scan
-![WhatWeb](screenshots/2_whatweb.png.png)
+(2_whatweb.png.png)
 
 ### 3. NSLookup
-![NSLookup](screenshots/3_nslookup.png.png)
+(3_nslookup.png.png)
 
 ### 4. Curl
 ![Curl](screenshots/4_curl.png.png)
