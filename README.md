@@ -130,28 +130,28 @@ Finally, I reinforced my understanding that reconnaissance and scanning must alw
 ## 8. Evidences Collected
 
 ### 1. Whois
-Screenshots/1_whois.png.png
+(Screenshots/1_whois.png.png)
 
 ### 2. WhatWeb Scan
-
+(Screenshots/2_whatweb.png.png)
 
 ### 3. NSLookup
-(3_nslookup.png.png)
+(Screenshots/3_nslookup.png.png)
 
 ### 4. Curl
-![Curl](screenshots/4_curl.png.png)
+(Screenshots/4_curl.png.png)
 
 ### 5. WAFW00F
-![WAFW00F](screenshots/5_wafw00f.png.png)
+(Screenshots/5_wafw00f.png.png)
 
 ### 6. DNSRecon 
-![DNSRecon](screenshots/6_dnsrecon.png.png)
+(Screenshots/6_dnsrecon.png.png)
 
 ### 7. Zenmap
-![Zenmap](screenshots/7_zenmap.png.png)
+(Screenshots/7_zenmap.png.png)
 
 ### 8. Zenmap Topology
-![Zenmap Topology](screenshots/8_zenmap_topology.png.png)
+(Screenshots/8_zenmap_topology.png.png)
 
 
 End
