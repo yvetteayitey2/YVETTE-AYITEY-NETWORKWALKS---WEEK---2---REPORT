@@ -128,7 +128,8 @@ Finally, I reinforced my understanding that reconnaissance and scanning must alw
 ---
 
 ## 8. Evidences Collected
-*(Please view the uploaded Word document and PDF in this repository for the full set of screenshots and the Zenmap topology map).*
+Screenshots/1_whois.png.png
+
 
 End
 ---
