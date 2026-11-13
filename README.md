@@ -130,7 +130,7 @@ Finally, I reinforced my understanding that reconnaissance and scanning must alw
 ## 8. Evidences Collected
 
 ### 1. DNSRecon (formerly WHOIS)
-![DNSRecon](screenshots/1_whois.png.png)
+![DNSRecon] Screenshots/1_whois.png.png
 
 ### 2. WhatWeb Scan
 ![WhatWeb](screenshots/2_whatweb.png.png)
