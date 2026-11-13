@@ -126,32 +126,31 @@ Furthermore, I learned that technical findings must be documented clearly. A goo
 Finally, I reinforced my understanding that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed safely and legally as part of the assigned educational lab.
 
 ---
-
 ## 8. Evidences Collected
 
 ### 1. Whois
-(Screenshots/1_whois.png.png)
+![Whois](Screenshots/1_whois.png.png)
 
 ### 2. WhatWeb Scan
-(Screenshots/2_whatweb.png.png)
+![WhatWeb](Screenshots/2_whatweb.png.png)
 
 ### 3. NSLookup
-(Screenshots/3_nslookup.png.png)
+![NSLookup](Screenshots/3_nslookup.png.png)
 
 ### 4. Curl
-(Screenshots/4_curl.png.png)
+![Curl](Screenshots/4_curl.png.png)
 
 ### 5. WAFW00F
-(Screenshots/5_wafw00f.png.png)
+![WAFW00F](Screenshots/5_wafw00f.png.png)
 
-### 6. DNSRecon 
-(Screenshots/6_dnsrecon.png.png)
+### 6. DNSRecon
+![DNSRecon](Screenshots/6_dnsrecon.png.png)
 
 ### 7. Zenmap
-(Screenshots/7_zenmap.png.png)
+![Zenmap](Screenshots/7_zenmap.png.png)
 
 ### 8. Zenmap Topology
-(Screenshots/8_zenmap_topology.png.png)
+![Zenmap](Screenshots/8_zenmap_topology.png.png)
 
 
 End
